@@ -4,6 +4,16 @@ This is a simple Node.js API that uses Twilio (https://www.twilio.com/) to send 
 
 ---
 
+## Screenshot
+
+Here’s what a sample request/response looks like:
+
+![Send-OTP](./ss.png)
+![Verify-OTP](./vv.png)
+
+
+---
+
 ## Features
 
 - Send OTP to any phone number
