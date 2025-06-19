@@ -40,8 +40,6 @@ npm install
 
 ```bash
 env
-Copy
-Edit
 PORT=3000
 TWILIO_ACCOUNT_SID=your_account_sid
 TWILIO_AUTH_TOKEN=your_auth_token
@@ -51,8 +49,6 @@ TWILIO_VERIFY_SERVICE_SID=your_verify_service_sid
 4. **Start the server**
 
 ```bash
-Copy
-Edit
 node index.js
 ```
 
