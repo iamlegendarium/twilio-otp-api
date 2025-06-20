@@ -49,7 +49,6 @@ npm install
     **Create a .env file and add your credentials:**
 
 ```bash
-env
 PORT=3000
 TWILIO_ACCOUNT_SID=your_account_sid
 TWILIO_AUTH_TOKEN=your_auth_token
